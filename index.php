@@ -12,7 +12,7 @@
   </head>
 
   <body>
-    <h1>Hello, world!</h1>
+    
 
     <script type="text/javascript" src="_/js/jquery-3.1.1.min.js"></script>
     <script type="text/javascript" src="_/js/bootstrap.min.js"></script>
