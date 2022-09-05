@@ -12,7 +12,8 @@
   </head>
 
   <body>
-    
+    <h1>Hello teszt</h1>
+    <p>valami szar szoveg</p>
 
     <script type="text/javascript" src="_/js/jquery-3.1.1.min.js"></script>
     <script type="text/javascript" src="_/js/bootstrap.min.js"></script>
